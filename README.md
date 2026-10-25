@@ -35,6 +35,8 @@ A extração foi realizada por meio de consultas SQL e da importação de tabela
 - Power Query
 - Firebird
 - ODBC
+
+
 As consultas utilizadas no projeto podem ser encontradas na pasta ['sql'](sql/)
 ## Objetivo
 
