@@ -35,7 +35,7 @@ A extração foi realizada por meio de consultas SQL e da importação de tabela
 - Power Query
 - Firebird
 - ODBC
-
+As consultas utilizadas no projeto podem ser encontradas na pasta ['sql'](sql/)
 ## Objetivo
 
 Aplicar análise de dados para transformar informações operacionais em indicadores úteis, facilitar a identificação de oportunidades e apoiar decisões relacionadas ao desempenho das filiais e à gestão de estoque.
